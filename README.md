@@ -1,5 +1,6 @@
-sputnik-dao-ui
-==================
+sputnik-dao-ui backup for meta pool
+====================================
 
-coming soon....
+deployed at
+https://narwallets.github.io/sputnik-dao-2-ui-mainnet/#/metapool.sputnik-dao.near
 
